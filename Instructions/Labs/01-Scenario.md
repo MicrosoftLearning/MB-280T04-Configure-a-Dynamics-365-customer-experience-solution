@@ -14,7 +14,7 @@ Based on the scenario provided below, you will create and configure your Dynamic
 At the end of the day, we will provide each student with 5 to 10 minutes to walk through part or all the solutions they created. 
 
 ## Scenario: Contoso Home Security 
-Contoso Home Security is a direct-to-consumer home security equipment and monitoring company. Their products Include Smart Doorbells, Smart Thermostats, Security, and moisture sensors, and more. Since they are direct to consumers, their products are sold either online, or in their retail stores that are in 11 major US cities. Online customers are assigned an account representative. Their role is to follow up with the customer and attempt to provide them with additional products and services. 
+Contoso Home Security is a direct-to-consumer home security equipment and monitoring company. Their products include smart doorbells, smart thermostats, security systems, moisture sensors, and more. Since they are direct to consumer, their products are sold either online or in their retail stores across 11 major US cities. Online customers are assigned an account representative. Their role is to follow up with the customer and attempt to provide them with additional products and services. 
 
 In the upcoming exercises, we will explain their detailed business requirements.
 
