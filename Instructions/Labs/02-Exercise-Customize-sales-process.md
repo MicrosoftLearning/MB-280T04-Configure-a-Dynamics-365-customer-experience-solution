@@ -39,4 +39,9 @@ Contoso also has a lead nurturing program that they use to maximize the possibil
 
 Since Contoso has customer information in multiple places, they often struggle to maintain a complete understanding of who the customer is across their entire organizations. They would like a way to consolidate all this data into one singular view.
 
+Data sources can be found in the following CSV file paths:
+- **Customers:** https://aka.ms/CI-ILT/Contacts
+- **POS retail transactions:**  https://aka.ms/CI-ILT/POSPurchases
+- **Online transactions:** https://aka.ms/CI-ILT/OnlinePurchases
+- **Loyalty Program Customers:** https://aka.ms/CI-ILT/LoyaltySchemeCustomers
 
