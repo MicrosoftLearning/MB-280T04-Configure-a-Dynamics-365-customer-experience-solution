@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Exercise 3: Design a campaign
+    title: 'Exercise 3: Design a campaign'
 ---
 
 # Exercise 3: Design a campaign
