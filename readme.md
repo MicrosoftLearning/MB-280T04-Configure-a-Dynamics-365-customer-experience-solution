@@ -1,13 +1,15 @@
-# Microsoft Lab Exercises
-<!-- Change the title above as appropriate -->
+# MB-280T04: Configure a Dynamics 365 customer experience solution 
 
 This repo contains exercises and supporting files for Microsoft skilling content.
 
 The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
-<!-- Update thr paragraph above with a link to a specific Learning Path or course as appropriate -->
+
+If teaching MB-280T04 as part of the 4-course MB-280 series, you can find the other GitHub repositories below:
+- [MB-280T01: Configure Dynamics 365 customer experience model-driven apps](https://github.com/MicrosoftLearning/MB-280T01-Configure-Dynamics-365-customer-experience-model-driven-apps)
+- [MB-280T02: Empower sellers with Dynamics 365 Sales](https://github.com/MicrosoftLearning/MB-280T02-Empower-sellers-with-Dynamics-365-Sales-and-Microsoft-365-Copilot-for-Sales)
+- [MB-280T03: Design and deliver powerful customer experiences with Dynamics 365 Customer Insights](https://github.com/MicrosoftLearning/MB-280T03-Design-and-deliver-powerful-customer-experiences-with-Dynamics-365-Customer-Insights)
 
 ## Information for MCTs
-<!-- You can remove this section if the exercises will not be used to support Microsoft Official Curriculum ILT -->
 
 **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
